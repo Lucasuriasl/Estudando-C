@@ -1,17 +1,22 @@
-#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
 
-void ft_print_alphabet(void)
+int main()
 {
-    short c;
+    char color[20];
+    char pluralNoun[20];
+    char celebrity[20];
 
-    c = 96;
-    while (++c < 123);
-        write(1, &c, 1);
-}
+    printf("enter a color: ");
+    scanf("%s", color);
+    printf("Enter a plural noun: ");
+    scanf("%s", pluralNoun);
+    printf("Enter the name of a celebrity: ");
+    scanf("%s", celebrity);
 
-int main(void)
-{
-    ft_print_alphabet();
-    printf(c)
 
+    printf("Roses are %s\n", color);
+    printf("%s are blue\n", pluralNoun);
+    printf("I love %s\n", celebrity);
+    return 0;
 }
