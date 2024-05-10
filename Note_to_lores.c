@@ -4,7 +4,8 @@
 
 /*/
 
-ESSE PROGRAMA PRINTA UMA DECLARA��O DE AMOR!
+ESSE PROGRAMA PRINTA UMA DECLARAÇÃO DE AMOR!
+    O nome dela não é uma variável.
 
 /*/
 
