@@ -6,19 +6,16 @@ int main()
 
     int favNum = 90;
     char characterName[] = "John";
-    int characterAge = "35";
+    char characterAge = 12;
+    //int number = "number";
     printf("There once was a man named %s\n", characterName);
 
     printf("he was 35 years old.\n");
     printf("He really liked the name John\n");
-    printf("but did not like being %s.\n", characterAge);
+    printf("but did not like being %d.\n", characterAge);
 
 
-    printf("My favorite %s is %d", "number", favNum);
+    //printf("My favorite %d is %d", number, favNum);
 
-
-
-
-    return 0;
+    printf("My favorite number is %d", favNum);
 }
-
