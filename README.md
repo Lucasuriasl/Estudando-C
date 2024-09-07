@@ -1,7 +1,9 @@
-<img src="[BadgeURLAqui](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)"> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
 
 # Estudando C 
+
 Studying C programing language
+
 Estudando um pouco de C na prática com pequenos projetos.
 
     A intenção é colocar alguns exercícios que fiz para entender na prática conceitos de programação em C.
