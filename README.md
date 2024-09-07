@@ -1,6 +1,6 @@
 [![C](https://i.imgur.com/zINUxVf.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-<h2 ># Estudando C Studying C programing language
+<h2 ># Estudando C Studying C programing language </h2>
 
 Estudando um pouco de C na prática com pequenos projetos.
 
