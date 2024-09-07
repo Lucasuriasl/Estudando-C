@@ -1,12 +1,13 @@
 [![C](https://i.imgur.com/zINUxVf.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-<h2 ># Estudando C Studying C programing language </h2>
+<h2 > Estudando C - Studying C programing language </h2>
 
 Estudando um pouco de C na prática com pequenos projetos.
 
 A intenção é colocar alguns exercícios que fiz para entender na prática conceitos de programação em C.
 
 Alguns dos exercícios foram feitos seguindo a aula do codecamp no link
+    
     https://www.youtube.com/watch?v=KJgsSFOSQv0&t=5733s&ab_channel=freeCodeCamp.org
 
 
